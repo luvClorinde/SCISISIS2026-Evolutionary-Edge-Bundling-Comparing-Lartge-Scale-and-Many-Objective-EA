@@ -1,0 +1,9 @@
+numpy==2.2.6
+jmetalpy==1.8.0
+scipy==1.15.3
+matplotlib==3.10.8
+networkx==3.4.2
+cupy-cuda12x==14.0.1
+pymoo==0.6.1.6
+pymetis
+scikit-learn
